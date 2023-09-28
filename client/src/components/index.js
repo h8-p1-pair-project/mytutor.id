@@ -1,0 +1,6 @@
+export { default as NavBar } from "./NavBar.jsx"
+export { default as Footer } from "./Footer.jsx"
+export { default as Tab } from "./Tab.jsx"
+export { default as LogIn } from "./LogIn.jsx"
+export { default as SignUp } from "./SignUp.jsx"
+export { default as Select } from "./Select.jsx"
